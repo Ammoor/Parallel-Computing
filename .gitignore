@@ -1,0 +1,5 @@
+# Visual Studio user/local files
+*.user
+
+# Build output folders
+x64
