@@ -3,3 +3,7 @@
 
 # Build output folders
 x64
+
+# Visual Studio project filters
+Final Project.vcxproj
+Final Project.vcxproj.filters
